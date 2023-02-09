@@ -1,0 +1,5 @@
+rootProject.name = 'GradlePro'
+include('db')
+include('service')
+include('api')
+
